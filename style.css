@@ -1,0 +1,10 @@
+* {
+    background-color: grey;
+}
+
+h1 {
+    background-color: black;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
